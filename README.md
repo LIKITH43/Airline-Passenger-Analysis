@@ -11,7 +11,7 @@ Data source: Kaggle(https://www.kaggle.com/datasets/roshansalunke/british-airway
 Tableau 2024.3
 
 ### Dashboard overview
-Dashboard link: https://public.tableau.com/app/profile/madhuri.malgareddy/viz/passengerreviewanalysis/PassengerReviewAnalysis
+Dashboard link: (https://public.tableau.com/app/profile/likith.kanumuri/viz/ArilinePassengerReviewAnalysis/PassengerReviewAnalysis?publish=yes)
 
 ![Screenshot 2025-02-28 205615](https://github.com/user-attachments/assets/36258fa7-ba7c-4534-92cd-cf96034065fc)
 
